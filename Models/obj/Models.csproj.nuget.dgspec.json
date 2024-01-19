@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\Models.csproj": {}
+    "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\Models.csproj": {
+    "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\obj\\",
+        "projectPath": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Zivorad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zivorad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

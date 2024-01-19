@@ -523,19 +523,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Zivorad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Aplikaccija\\Aplikaccija.csproj",
+      "projectUniqueName": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Aplikaccija\\Aplikaccija.csproj",
       "projectName": "Aplikaccija",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Aplikaccija\\Aplikaccija.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Aplikaccija\\obj\\",
+      "projectPath": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Aplikaccija\\Aplikaccija.csproj",
+      "packagesPath": "C:\\Users\\Zivorad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Aplikaccija\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zivorad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -549,11 +549,11 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\Aplikaccija\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Aplikaccija\\Models\\Models.csproj"
+            "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Zivorad\\Desktop\\Aplikaccija\\Models\\Models.csproj"
             }
           }
         }
